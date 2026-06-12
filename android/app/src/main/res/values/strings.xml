@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Skytterapp</string>
+    <string name="title_activity_main">Skytterapp</string>
+    <string name="package_name">no.skytterapp.app</string>
+    <string name="custom_url_scheme">no.skytterapp.app</string>
+</resources>

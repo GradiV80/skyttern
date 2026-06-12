@@ -1,0 +1,6 @@
+{
+  "name": "Skytterapp",
+  "description": "En digital loggbok og skyteassistent for pistolskyttere, med støtte for NAIS, Hurtig, Standardpistol, T96, fritrening og våpenadministrasjon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
